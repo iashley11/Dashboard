@@ -1,0 +1,41 @@
+# Success Criteria Definition
+
+## SMART Success Criteria
+
+### 1. [Success Criterion 1]
+- **Specific:** [Exactly what will be achieved?]
+- **Measurable:** [How will you quantify success?]
+- **Achievable:** [Is this realistic given resources?]
+- **Relevant:** [How does this address the core problem?]
+- **Time-bound:** [What is the deadline?]
+
+### 2. [Success Criterion 2]
+- **Specific:** [Exactly what will be achieved?]
+- **Measurable:** [How will you quantify success?]
+- **Achievable:** [Is this realistic given resources?]
+- **Relevant:** [How does this address the core problem?]
+- **Time-bound:** [What is the deadline?]
+
+### 3. [Success Criterion 3]
+- **Specific:** [Exactly what will be achieved?]
+- **Measurable:** [How will you quantify success?]
+- **Achievable:** [Is this realistic given resources?]
+- **Relevant:** [How does this address the core problem?]
+- **Time-bound:** [What is the deadline?]
+
+## Success Measurement Plan
+
+### Quantitative Metrics
+- [Metric 1]: Baseline [X], Target [Y], Measurement frequency [Z]
+- [Metric 2]: Baseline [X], Target [Y], Measurement frequency [Z]
+- [Metric 3]: Baseline [X], Target [Y], Measurement frequency [Z]
+
+### Qualitative Indicators
+- [Qualitative measure 1]: [How will you assess this?]
+- [Qualitative measure 2]: [How will you assess this?]
+
+## Risk Factors
+**What could prevent success?**
+- [Risk 1]: [Mitigation strategy]
+- [Risk 2]: [Mitigation strategy]
+- [Risk 3]: [Mitigation strategy]

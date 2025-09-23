@@ -1,0 +1,51 @@
+# Scientific Evidence Search Strategy
+
+## Database Search Strategy
+
+### Databases Searched
+1. **Business Source Premier**
+   - Keywords: [management, leadership, organizational behavior]
+   - Date range: [2019-2024]
+   - Results: [X studies found]
+
+2. **PsycINFO**
+   - Keywords: [workplace psychology, employee motivation]  
+   - Date range: [2019-2024]
+   - Results: [X studies found]
+
+3. **Google Scholar**
+   - Keywords: [specific management technique, best practices]
+   - Date range: [2019-2024] 
+   - Results: [X studies found]
+
+## Search Terms & Boolean Logic
+
+### Primary Search String
+**(management OR leadership) AND (performance OR productivity) AND (intervention OR solution)**
+
+### Secondary Search Terms
+- [Additional relevant keywords]
+- [Industry-specific terms]
+- [Problem-specific terminology]
+
+## Inclusion/Exclusion Criteria
+
+### Inclusion Criteria
+- Peer-reviewed journal articles
+- Published in English
+- Study population relevant to problem context
+- Quantitative or mixed-methods studies
+- Sample size > 30 participants
+
+### Exclusion Criteria  
+- Opinion pieces or editorials
+- Studies older than 5 years
+- Non-English publications
+- Case studies with n < 10
+- Conference abstracts without full text
+
+## Search Results Summary
+- **Initial results:** [X] studies identified
+- **After screening:** [Y] studies reviewed
+- **Final selection:** [Z] studies included
+- **Search completed:** [Date]

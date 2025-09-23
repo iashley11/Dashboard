@@ -1,0 +1,37 @@
+# Stakeholder Analysis
+
+## Primary Stakeholders
+**High Impact & High Interest**
+
+### 1. [Stakeholder Group 1]
+- **Role/Position:** [Description]
+- **Interest in Problem:** [Why do they care?]
+- **Influence Level:** [High/Medium/Low]
+- **Preferred Communication:** [How to engage them]
+
+### 2. [Stakeholder Group 2]
+- **Role/Position:** [Description]
+- **Interest in Problem:** [Why do they care?]
+- **Influence Level:** [High/Medium/Low]
+- **Preferred Communication:** [How to engage them]
+
+## Secondary Stakeholders
+**Moderate Impact or Interest**
+
+- [List other affected parties]
+- [Include customers, suppliers, etc.]
+- [Note their specific concerns]
+
+## Stakeholder Mapping
+**Power vs. Interest Grid:**
+- **Manage Closely:** [High power, high interest]
+- **Keep Satisfied:** [High power, low interest]  
+- **Keep Informed:** [Low power, high interest]
+- **Monitor:** [Low power, low interest]
+
+## Engagement Strategy
+**How will you collect stakeholder evidence?**
+- Surveys: [Target groups and questions]
+- Interviews: [Key individuals to speak with]
+- Focus Groups: [Group sessions planned]
+- Observation: [What behaviors to observe]

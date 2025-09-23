@@ -1,0 +1,29 @@
+# Problem Definition
+
+## Management Problem Statement
+**Problem Title:** [Insert your specific management problem here]
+
+## Problem Framework Analysis
+Using structured problem definition frameworks:
+
+### 1. Problem Context
+- **Organization:** [Name and brief description]
+- **Department/Function:** [Specific area affected]
+- **Timeline:** [When did this problem emerge?]
+- **Scope:** [Who/what is affected?]
+
+### 2. Current State vs. Desired State
+- **Current Situation:** [Describe what is happening now]
+- **Desired Outcome:** [What should be happening instead?]
+- **Gap Analysis:** [What is the difference?]
+
+### 3. Problem Root Causes
+- **Immediate Causes:** [What are the obvious factors?]
+- **Underlying Issues:** [What deeper factors contribute?]
+- **System Factors:** [What organizational elements play a role?]
+
+## Success Metrics
+Define how you will measure problem resolution:
+1. [Metric 1 with target]
+2. [Metric 2 with target]  
+3. [Metric 3 with target]
