@@ -1,0 +1,167 @@
+# Organizational Evidence: Internal Data Collection Strategy
+# Document your approach to gathering internal organizational evidence
+
+## Internal Evidence Goals
+**Primary Goal:** [What internal data do you need about your problem?]
+**Secondary Goal:** [What internal data do you need about solution feasibility?]
+
+## Available Data Sources
+
+### Performance Metrics/KPIs
+- **Financial Data:** [Revenue, costs, profitability metrics]
+- **Operational Data:** [Efficiency, productivity, quality metrics]
+- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
+- **Customer Data:** [Satisfaction, retention, acquisition metrics]
+- **Other Relevant Metrics:** [Industry-specific measurements]
+
+### Internal Systems
+- **CRM Systems:** [Customer relationship data]
+- **ERP Systems:** [Enterprise resource planning data]
+- **HR Information Systems:** [Employee data and metrics]
+- **Financial Systems:** [Accounting and financial data]
+- **Operations Systems:** [Production, service delivery data]
+
+### Reports and Documentation
+- **Regular Reports:** [Monthly, quarterly, annual reports]
+- **Survey Results:** [Employee, customer, stakeholder surveys]
+- **Audit Results:** [Internal and external audit findings]
+- **Assessment Reports:** [Performance reviews, process evaluations]
+- **Historical Studies:** [Previous internal research or analysis]
+
+## Data Collection Plan
+
+### Quantitative Data Collection
+#### Metrics to Collect
+[List specific metrics relevant to your problem and solution]
+
+**Problem-Related Metrics:**
+- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
+- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
+- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
+
+**Solution-Related Metrics:**
+- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
+- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
+- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
+
+#### Time Period Analysis
+- **Historical Data Range:** [How far back will you look?]
+- **Trend Analysis Period:** [What timeframe for trend identification?]
+- **Seasonal Considerations:** [Any seasonal patterns to account for?]
+- **Baseline Period:** [What period represents "normal" operations?]
+
+### Qualitative Data Collection
+#### Internal Documents Review
+- **Policy Documents:** [Relevant policies and procedures]
+- **Meeting Minutes:** [Records of relevant discussions]
+- **Communication Records:** [Emails, memos, announcements]
+- **Project Reports:** [Previous initiative outcomes]
+
+#### Observational Data
+- **Process Observations:** [What processes can you observe?]
+- **Workflow Analysis:** [How work actually gets done]
+- **Communication Patterns:** [How information flows]
+- **Cultural Observations:** [Organizational behavior patterns]
+
+## Access and Permissions
+
+### Data Access Strategy
+#### Required Permissions
+- **Data Custodians:** [Who controls access to different data sources?]
+- **Approval Process:** [What approvals are needed?]
+- **Privacy Considerations:** [What privacy restrictions apply?]
+- **Confidentiality Requirements:** [What confidentiality agreements needed?]
+
+#### Contact Plan
+1. **Primary Contact:** [Name, role, contact information]
+   - **Data Sources:** [What data they control]
+   - **Approach:** [How you'll request access]
+
+2. **Secondary Contact:** [Name, role, contact information]
+   - **Data Sources:** [What data they control]
+   - **Approach:** [How you'll request access]
+
+### Ethical Considerations
+- **Employee Privacy:** [How will you protect individual privacy?]
+- **Data Security:** [How will you secure sensitive data?]
+- **Use Limitations:** [How will you limit use of internal data?]
+- **Reporting Boundaries:** [What can/cannot be shared externally?]
+
+## Data Analysis Plan
+
+### Baseline Establishment
+#### Pre-Problem Baselines
+[What did performance look like before the problem emerged?]
+
+#### Normal Operating Ranges
+[What constitutes normal vs. abnormal performance?]
+
+#### Benchmark Comparisons
+[How does performance compare to industry standards or internal targets?]
+
+### Problem Evidence Analysis
+#### Problem Indicators
+[What data would confirm the problem exists?]
+
+#### Problem Severity Measurement
+[How will you quantify the severity of the problem?]
+
+#### Root Cause Investigation
+[What data analysis might reveal underlying causes?]
+
+### Solution Feasibility Analysis
+#### Resource Assessment
+[What internal data shows resource availability for solutions?]
+
+#### Capability Assessment
+[What data shows organizational capability for change?]
+
+#### Risk Assessment
+[What internal data reveals potential implementation risks?]
+
+## Documentation Strategy
+
+### Data Collection Log
+[How will you track what data you collect and when?]
+
+### Analysis Documentation
+[How will you document your analysis process and findings?]
+
+### Quality Assurance
+[How will you ensure data accuracy and completeness?]
+
+### Version Control
+[How will you manage different versions of data and analysis?]
+
+## Expected Challenges
+
+### Data Availability
+[What data might not be available or accessible?]
+
+### Data Quality Issues
+[What data quality problems might you encounter?]
+
+### Access Barriers
+[What obstacles might prevent data access?]
+
+### Time Constraints
+[How might time limitations affect data collection?]
+
+## Backup Plans
+
+### Alternative Data Sources
+[What alternatives exist if primary sources aren't available?]
+
+### Proxy Measures
+[What substitute metrics could you use if ideal data isn't available?]
+
+### Simplified Analysis
+[What's the minimum viable organizational evidence you need?]
+
+---
+INSTRUCTIONS:
+1. Start with readily available data before pursuing hard-to-access information
+2. Be respectful of privacy and confidentiality when requesting internal data
+3. Focus on data most relevant to your specific problem and solution
+4. Document your data sources and analysis methods clearly
+5. Have backup plans for inaccessible data

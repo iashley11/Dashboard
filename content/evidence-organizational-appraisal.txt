@@ -1,0 +1,223 @@
+# Organizational Evidence: Quality Assessment
+# Evaluate the credibility and usefulness of organizational data collected
+
+## Overall Data Quality Assessment
+
+### Data Source Reliability
+
+#### Primary Data Sources
+**Data Source 1:** [Most important organizational data source]
+- **Reliability Rating:** [High/Medium/Low]
+- **Data Collection Method:** [How this data is gathered]
+- **Update Frequency:** [How often data is refreshed]
+- **Historical Availability:** [How far back reliable data exists]
+- **Known Limitations:** [What affects the quality of this data]
+
+**Data Source 2:** [Second most important organizational data source]
+- **Reliability Rating:** [High/Medium/Low]
+- **Data Collection Method:** [How this data is gathered]
+- **Update Frequency:** [How often data is refreshed]
+- **Historical Availability:** [How far back reliable data exists]
+- **Known Limitations:** [What affects the quality of this data]
+
+**Data Source 3:** [Third organizational data source]
+[Follow same structure]
+
+#### Data Integration Assessment
+**Cross-System Consistency:** [Whether data from different systems aligns]
+**Data Definition Consistency:** [Whether metrics are defined the same way across sources]
+**Temporal Alignment:** [Whether data from different sources covers same time periods]
+
+### Measurement Quality Analysis
+
+#### Validity Assessment
+**Face Validity:** [Whether the measures obviously relate to your problem]
+- **Problem Relevance Score:** [High/Medium/Low] - [Explain reasoning]
+- **Direct vs. Proxy Measures:** [Whether you're measuring the actual problem or just indicators]
+
+**Construct Validity:** [Whether measures actually capture what you think they measure]
+- **Measurement Alignment:** [How well measures align with theoretical concepts]
+- **Confounding Factors:** [What else might influence these measures]
+
+**Criterion Validity:** [Whether measures correlate with external standards]
+- **External Validation:** [How these measures compare to industry benchmarks]
+- **Predictive Value:** [Whether these measures predict outcomes you care about]
+
+#### Reliability Assessment
+**Measurement Consistency:** [How consistent measurements are over time]
+- **Temporal Stability:** [Whether similar conditions produce similar measurements]
+- **Inter-Rater Reliability:** [If humans are involved, whether different people get same results]
+- **Internal Consistency:** [Whether related measures align with each other]
+
+**Error Sources:** [What might make measurements unreliable]
+- **Systematic Errors:** [Consistent biases in measurement]
+- **Random Errors:** [Inconsistent noise in measurement]
+- **Human Errors:** [Mistakes in data collection or entry]
+
+### Bias Assessment
+
+#### Selection Bias
+**Data Availability Bias:** 
+- **Risk Level:** [High/Medium/Low]
+- **Issue:** [Whether missing data creates systematic bias]
+- **Impact:** [How missing data might skew conclusions]
+
+**Survivorship Bias:**
+- **Risk Level:** [High/Medium/Low] 
+- **Issue:** [Whether only "surviving" cases/units are included]
+- **Impact:** [How this might distort understanding of problem]
+
+#### Measurement Bias
+**Gaming/Manipulation Risk:**
+- **Risk Level:** [High/Medium/Low]
+- **Issue:** [Whether people might manipulate data to look better]
+- **Mitigation:** [How organization prevents data manipulation]
+
+**Reporting Bias:**
+- **Risk Level:** [High/Medium/Low]
+- **Issue:** [Whether some results are more likely to be reported than others]
+- **Impact:** [How selective reporting might affect conclusions]
+
+#### Temporal Bias
+**Timing Effects:**
+- **Seasonal Variations:** [Whether problem/measures vary by season]
+- **Cyclical Patterns:** [Whether business cycles affect measures]
+- **Event-Driven Changes:** [Whether one-time events distort patterns]
+
+**Historical Context:**
+- **Trend Analysis Validity:** [Whether historical trends predict future patterns]
+- **Contextual Changes:** [How changes in organization/environment affect data interpretation]
+
+### Completeness Assessment
+
+#### Data Coverage
+**Time Period Coverage:**
+- **Adequate Historical Data:** [Whether enough historical data exists for trend analysis]
+- **Pre-Problem Baseline:** [Whether data exists from before problem emerged]
+- **Comparison Periods:** [Whether data allows before/after comparisons]
+
+**Organizational Coverage:**
+- **Department/Unit Coverage:** [Which parts of organization are represented in data]
+- **Geographic Coverage:** [Whether all relevant locations are included]
+- **Employee/Customer Coverage:** [Whether all relevant populations are included]
+
+#### Variable Coverage
+**Comprehensive Problem Coverage:** [Whether data captures all aspects of problem]
+**Outcome Measure Coverage:** [Whether data includes measures of success you care about]
+**Contextual Variable Coverage:** [Whether data includes factors that might influence problem]
+
+### Accuracy Assessment
+
+#### Data Verification Methods
+**Cross-Verification Performed:**
+- **Multiple Source Comparison:** [Whether data from different sources was compared]
+- **External Validation:** [Whether internal data was checked against external sources]
+- **Audit Trail Review:** [Whether data collection process was verified]
+
+**Error Detection Efforts:**
+- **Outlier Analysis:** [How unusual data points were investigated]
+- **Consistency Checks:** [How data inconsistencies were identified and resolved]
+- **Logic Validation:** [How impossible or illogical values were caught]
+
+#### Accuracy Limitations
+**Known Data Errors:** [Specific errors identified in the data]
+**Estimated Error Rates:** [Best guess at how much error exists in data]
+**Impact of Errors:** [How data errors might affect conclusions]
+
+## Organizational Context Assessment
+
+### Data Collection Environment
+
+#### Organizational Culture Impact
+**Data Culture Assessment:** [How organization values data quality and accuracy]
+- **Data Quality Priority:** [High/Medium/Low] - [Evidence for assessment]
+- **Transparency Level:** [How open organization is about problems and data]
+- **Accountability Systems:** [How organization ensures data accuracy]
+
+**Political Factors:**
+- **Pressure to Show Improvement:** [Whether there's pressure to manipulate data positively]
+- **Blame Culture Impact:** [Whether fear of blame affects honest reporting]
+- **Resource Competition:** [Whether departments compete in ways that might affect data]
+
+#### System Limitations
+**Technology Constraints:** [How IT systems limit data quality or availability]
+**Process Constraints:** [How business processes affect data collection]
+**Resource Constraints:** [How limited resources affect data quality]
+
+### Stakeholder Influence Assessment
+
+#### Data Provider Credibility
+**Data Collectors/Managers:**
+- **Competence Assessment:** [How skilled are people who collect/manage this data]
+- **Motivation Assessment:** [What motivates data collectors - accuracy vs. other priorities]
+- **Training Assessment:** [How well-trained are data collectors]
+
+**Data Users/Interpreters:**
+- **Analytical Skills:** [How capable are people who analyze this data normally]
+- **Bias Awareness:** [How aware are normal users of data limitations]
+- **Decision Integration:** [How well this data typically informs decisions]
+
+## Context-Specific Reliability
+
+### Problem-Specific Assessment
+**Problem Detection Capability:** [How well this data can identify your specific problem]
+**Problem Severity Assessment:** [How well this data can measure problem severity]
+**Solution Impact Measurement:** [How well this data could measure solution effectiveness]
+
+### Decision-Making Utility
+**Actionability:** [How well this data supports specific decisions]
+**Timeliness:** [Whether data is available soon enough to inform decisions]
+**Granularity:** [Whether data is detailed enough for your decision needs]
+
+## Quality Rating by Data Category
+
+### Performance Metrics
+**Overall Quality Rating:** [High/Medium/Low]
+**Strengths:** [What makes this performance data reliable]
+**Limitations:** [What limits confidence in performance data]
+**Decision Support Value:** [How useful this data is for decisions]
+
+### Financial Data
+**Overall Quality Rating:** [High/Medium/Low]
+**Strengths:** [What makes financial data reliable]
+**Limitations:** [What limits confidence in financial data]
+**Decision Support Value:** [How useful financial data is for decisions]
+
+### Operational Data
+**Overall Quality Rating:** [High/Medium/Low]
+**Strengths:** [What makes operational data reliable]
+**Limitations:** [What limits confidence in operational data]
+**Decision Support Value:** [How useful operational data is for decisions]
+
+### Customer/Market Data
+**Overall Quality Rating:** [High/Medium/Low]
+**Strengths:** [What makes customer/market data reliable]
+**Limitations:** [What limits confidence in customer/market data]
+**Decision Support Value:** [How useful customer/market data is for decisions]
+
+## Overall Organizational Evidence Assessment
+
+### Strengths of Organizational Evidence
+[List the 3-5 strongest aspects of your organizational data]
+
+### Limitations of Organizational Evidence
+[List the 3-5 most significant limitations in your organizational data]
+
+### Confidence Level for Decision-Making
+**Overall Confidence:** [High/Medium/Low]
+**Justification:** [Explain why you have this level of confidence in organizational data]
+
+### Recommendations for Data Improvement
+[What could be done to strengthen organizational evidence for future decisions]
+
+### Integration with Other Evidence Types
+**Complementary Evidence Needs:** [What other evidence types help offset limitations in organizational data]
+**Triangulation Opportunities:** [How organizational data can be validated against other evidence]
+
+---
+INSTRUCTIONS:
+1. Be honest about data limitations - perfect organizational data is extremely rare
+2. Consider how organizational politics and culture affect data quality
+3. Assess whether data actually measures what you think it measures
+4. Evaluate both the technical quality and practical utility of the data
+5. Consider how data quality affects confidence in your conclusions

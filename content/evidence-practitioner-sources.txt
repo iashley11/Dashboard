@@ -1,0 +1,223 @@
+# Practitioner Evidence: Expert Insights & Professional Experience
+# Document the insights gathered from practitioners and case studies
+
+## Evidence Summary Overview
+**Total Practitioners Consulted:** [Number]
+**Interview Completion Rate:** [Percentage of attempted interviews completed]
+**Geographic Scope:** [Where practitioners are located]
+**Experience Range:** [Years of experience represented]
+**Industry Coverage:** [Sectors/industries represented]
+
+## Expert Interview 1
+### Practitioner Profile
+- **Name/Title:** [Name and current role]
+- **Organization:** [Current company/organization]
+- **Experience:** [Years in field, relevant background]
+- **Industry Focus:** [Primary industry/sector experience]
+- **Relevance:** [Why this person's insights matter]
+
+### Problem-Related Insights
+#### Problem Recognition
+- **Experience with This Problem:** [Have they encountered your problem?]
+- **Problem Frequency:** [How common is this in their experience?]
+- **Problem Manifestation:** [How does this problem typically show up?]
+- **Root Causes:** [What do they see as underlying causes?]
+
+#### Problem Impact
+- **Organizational Consequences:** [What happens when this problem isn't addressed?]
+- **Stakeholder Effects:** [Who gets hurt most by this problem?]
+- **Long-term Implications:** [What are the lasting effects?]
+
+### Solution-Related Insights
+#### Recommended Approaches
+- **Preferred Solutions:** [What approaches do they recommend?]
+- **Successful Examples:** [What have they seen work?]
+- **Failed Attempts:** [What approaches haven't worked?]
+- **Best Practices:** [What are the key success factors?]
+
+#### Implementation Guidance
+- **Critical Success Factors:** [What must go right for solutions to work?]
+- **Common Pitfalls:** [What typically goes wrong?]
+- **Resource Requirements:** [What resources are essential?]
+- **Timeline Expectations:** [How long does change typically take?]
+
+### Specific Recommendations for Your Situation
+[What specific advice did they give for your context?]
+
+---
+
+## Expert Interview 2
+### Practitioner Profile
+- **Name/Title:** [Name and current role]
+- **Organization:** [Current company/organization]
+- **Experience:** [Years in field, relevant background]
+- **Industry Focus:** [Primary industry/sector experience]
+- **Relevance:** [Why this person's insights matter]
+
+### Problem-Related Insights
+#### Problem Recognition
+- **Experience with This Problem:** [Have they encountered your problem?]
+- **Problem Frequency:** [How common is this in their experience?]
+- **Problem Manifestation:** [How does this problem typically show up?]
+- **Root Causes:** [What do they see as underlying causes?]
+
+#### Problem Impact
+- **Organizational Consequences:** [What happens when this problem isn't addressed?]
+- **Stakeholder Effects:** [Who gets hurt most by this problem?]
+- **Long-term Implications:** [What are the lasting effects?]
+
+### Solution-Related Insights
+#### Recommended Approaches
+- **Preferred Solutions:** [What approaches do they recommend?]
+- **Successful Examples:** [What have they seen work?]
+- **Failed Attempts:** [What approaches haven't worked?]
+- **Best Practices:** [What are the key success factors?]
+
+#### Implementation Guidance
+- **Critical Success Factors:** [What must go right for solutions to work?]
+- **Common Pitfalls:** [What typically goes wrong?]
+- **Resource Requirements:** [What resources are essential?]
+- **Timeline Expectations:** [How long does change typically take?]
+
+### Specific Recommendations for Your Situation
+[What specific advice did they give for your context?]
+
+---
+
+## Expert Interview 3
+### Practitioner Profile
+- **Name/Title:** [Name and current role]
+- **Organization:** [Current company/organization]
+- **Experience:** [Years in field, relevant background]
+- **Industry Focus:** [Primary industry/sector experience]
+- **Relevance:** [Why this person's insights matter]
+
+### Problem-Related Insights
+[Follow same structure as above interviews]
+
+### Solution-Related Insights
+[Follow same structure as above interviews]
+
+### Specific Recommendations for Your Situation
+[What specific advice did they give for your context?]
+
+---
+
+## Case Study 1: [Organization/Situation Name]
+### Case Background
+- **Organization:** [Company or organization name]
+- **Industry/Sector:** [Type of organization]
+- **Size/Scope:** [Number of employees, revenue, etc.]
+- **Timeframe:** [When this case occurred]
+- **Source:** [Where you found this case study]
+
+### Problem Context
+- **Problem Description:** [What problem did they face?]
+- **Problem Severity:** [How serious was the issue?]
+- **Stakeholders Affected:** [Who was impacted?]
+- **Triggering Events:** [What prompted action?]
+
+### Solution Approach
+- **Strategy Chosen:** [What approach did they take?]
+- **Implementation Process:** [How did they execute the solution?]
+- **Resources Invested:** [What did they put into the solution?]
+- **Timeline:** [How long did implementation take?]
+
+### Results and Outcomes
+- **Measurable Results:** [What quantitative outcomes were achieved?]
+- **Qualitative Improvements:** [What qualitative changes occurred?]
+- **Stakeholder Reactions:** [How did different groups respond?]
+- **Unintended Consequences:** [Any unexpected results?]
+
+### Lessons Learned
+- **Success Factors:** [What made this solution work?]
+- **Challenges Faced:** [What difficulties were encountered?]
+- **Would Do Differently:** [What would they change?]
+- **Advice for Others:** [What guidance would they offer?]
+
+### Relevance to Your Situation
+- **Similarities:** [How is this case similar to your context?]
+- **Differences:** [How is this case different from your context?]
+- **Applicable Insights:** [What can you learn from this case?]
+
+---
+
+## Case Study 2: [Organization/Situation Name]
+[Follow same structure as Case Study 1]
+
+---
+
+## Case Study 3: [Organization/Situation Name]
+[Follow same structure as Case Study 1]
+
+---
+
+## Cross-Expert Analysis
+
+### Consensus Views
+#### About the Problem
+[What do multiple practitioners agree on regarding your problem?]
+
+#### About Solutions
+[What common recommendations emerge across practitioners?]
+
+#### About Implementation
+[What shared implementation advice do you hear?]
+
+### Divergent Perspectives
+#### Disagreements
+[Where do practitioners disagree?]
+
+#### Contextual Differences
+[How do different contexts lead to different recommendations?]
+
+#### Trade-offs
+[What different priorities or trade-offs do practitioners emphasize?]
+
+## Practical Insights
+
+### Industry-Specific Considerations
+[What insights are unique to your industry or sector?]
+
+### Size/Scale Considerations
+[How do organizational size factors affect recommendations?]
+
+### Cultural/Geographic Factors
+[How do location or culture influence practitioner recommendations?]
+
+## Implementation Wisdom
+
+### Critical Success Factors (Across All Sources)
+[What factors do practitioners consistently identify as crucial?]
+
+### Common Failure Points
+[What do practitioners warn against?]
+
+### Resource Requirements
+[What resources do practitioners say are essential?]
+
+### Timeline Expectations
+[What realistic timeframes do practitioners suggest?]
+
+## Practitioner-Based Recommendations
+
+### Immediate Actions
+[What should you do first based on practitioner advice?]
+
+### Medium-term Strategy
+[What should your overall approach be?]
+
+### Long-term Considerations
+[What should you plan for in the longer term?]
+
+### Context-Specific Adaptations
+[How should you adapt general advice to your specific situation?]
+
+---
+INSTRUCTIONS:
+1. Include at least 3 practitioner interviews and 2-3 relevant case studies
+2. Focus on actionable insights, not just general opinions
+3. Look for patterns across different practitioners' experiences
+4. Document both successes and failures they've observed
+5. Connect their insights to your specific problem and context
+6. Be prepared to follow up with clarifying questions

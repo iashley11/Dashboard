@@ -1,0 +1,274 @@
+# Stakeholder Evidence: Feedback & Perspectives
+# Document stakeholder input gathered through surveys, interviews, and other engagement
+
+## Evidence Collection Summary
+**Data Collection Period:** [Start date] to [End date]
+**Total Stakeholders Engaged:** [Number across all methods]
+**Response Rate:** [Percentage of invited stakeholders who participated]
+**Methods Used:** [Surveys, interviews, focus groups, other]
+
+## Survey Results
+
+### Response Demographics
+- **Total Survey Responses:** [Number]
+- **Response Rate:** [Percentage of those invited]
+- **Stakeholder Group Breakdown:**
+  - Management/Leadership: [Number and percentage]
+  - Employees/Staff: [Number and percentage]  
+  - Customers/Clients: [Number and percentage]
+  - Partners/Suppliers: [Number and percentage]
+
+### Problem Recognition and Impact
+
+#### Problem Awareness
+- **Stakeholders who recognize the problem:** [Percentage]
+- **Stakeholders who see it as high priority:** [Percentage]
+- **Stakeholders directly affected:** [Percentage]
+
+#### Problem Impact Assessment
+**Question: How significantly does this problem impact your work/experience?**
+- High Impact: [Percentage] of respondents
+- Medium Impact: [Percentage] of respondents  
+- Low Impact: [Percentage] of respondents
+- No Impact: [Percentage] of respondents
+
+**Most Common Impact Descriptions:**
+[List the top 3-5 ways stakeholders describe being affected]
+
+#### Problem Frequency
+**Question: How frequently do you encounter this problem?**
+- Daily: [Percentage]
+- Weekly: [Percentage]
+- Monthly: [Percentage]
+- Rarely: [Percentage]
+- Never: [Percentage]
+
+### Solution Feedback
+
+#### Solution Feasibility Assessment
+**Question: How feasible do you think the proposed solution is?**
+- Very Feasible: [Percentage]
+- Somewhat Feasible: [Percentage]
+- Uncertain: [Percentage]
+- Somewhat Unfeasible: [Percentage]
+- Very Unfeasible: [Percentage]
+
+#### Solution Support Levels
+**Question: What level of support would you provide for this initiative?**
+- Strong Support: [Percentage]
+- Moderate Support: [Percentage]
+- Neutral: [Percentage]
+- Some Resistance: [Percentage]
+- Strong Resistance: [Percentage]
+
+#### Implementation Concerns
+**Most Frequently Mentioned Concerns:**
+1. [Concern 1]: Mentioned by [percentage] of respondents
+2. [Concern 2]: Mentioned by [percentage] of respondents
+3. [Concern 3]: Mentioned by [percentage] of respondents
+
+### Priority Assessment
+
+#### Relative Priority Rating
+**Question: Compared to other organizational priorities, how important is solving this problem?**
+- Top Priority: [Percentage]
+- High Priority: [Percentage]
+- Medium Priority: [Percentage]
+- Low Priority: [Percentage]
+- Not a Priority: [Percentage]
+
+#### Resource Allocation Support
+**Question: What level of resources should be allocated to address this problem?**
+- Significant Resources: [Percentage]
+- Moderate Resources: [Percentage]
+- Limited Resources: [Percentage]
+- Minimal Resources: [Percentage]
+- No Additional Resources: [Percentage]
+
+## Interview Insights
+
+### Interview 1: [Stakeholder Role/Group]
+**Participant Profile:** [Role, experience level, relevance to problem]
+
+#### Problem Perspective
+- **Problem Description:** [How this stakeholder describes the problem]
+- **Personal Impact:** [How the problem affects them personally]
+- **Frequency of Encounter:** [How often they experience this problem]
+- **Root Cause Views:** [What they think causes the problem]
+
+#### Solution Perspective  
+- **Solution Reaction:** [Initial reaction to proposed solution]
+- **Feasibility Assessment:** [Whether they think it can work]
+- **Implementation Concerns:** [What worries them about implementation]
+- **Success Factors:** [What they think needs to happen for success]
+
+#### Specific Recommendations
+[Direct quotes or paraphrases of their advice]
+
+---
+
+### Interview 2: [Stakeholder Role/Group]
+[Follow same structure as Interview 1]
+
+---
+
+### Interview 3: [Stakeholder Role/Group]  
+[Follow same structure as Interview 1]
+
+---
+
+## Focus Group Results (if conducted)
+
+### Focus Group 1: [Stakeholder Group]
+**Participants:** [Number and roles of participants]
+**Duration:** [Length of focus group]
+**Key Themes:** [Main discussion topics that emerged]
+
+#### Group Consensus Views
+[Areas where the group generally agreed]
+
+#### Divergent Opinions
+[Areas where participants disagreed]
+
+#### Unexpected Insights
+[Surprising perspectives that emerged]
+
+## Stakeholder Group Analysis
+
+### Management/Leadership Perspectives
+
+#### Problem Recognition
+[How leadership views the problem]
+
+#### Solution Support
+[Level of leadership buy-in for proposed solution]
+
+#### Resource Commitment
+[What resources leadership is willing to commit]
+
+#### Implementation Concerns
+[What concerns leadership has about implementation]
+
+### Employee/Staff Perspectives
+
+#### Problem Experience
+[How front-line staff experience the problem]
+
+#### Solution Practicality
+[Whether staff think the solution will work in practice]
+
+#### Implementation Barriers
+[What barriers staff foresee to implementation]
+
+#### Support Needs
+[What support staff would need for successful implementation]
+
+### Customer/Client Perspectives
+
+#### Problem Impact on Experience
+[How the problem affects customer experience]
+
+#### Solution Value Perception
+[Whether customers see value in the proposed solution]
+
+#### Implementation Preferences
+[How customers would like to see changes implemented]
+
+#### Unintended Consequences
+[What customers worry might go wrong]
+
+### Partner/Supplier Perspectives
+
+#### External Impact Assessment
+[How the problem affects external partners]
+
+#### Collaboration Requirements
+[What partners would need to support the solution]
+
+#### Mutual Benefits
+[How partners might benefit from the solution]
+
+#### Potential Conflicts
+[Where partner interests might conflict with the solution]
+
+## Cross-Stakeholder Analysis
+
+### Consensus Areas
+#### Strong Agreement Across Groups
+[What all stakeholder groups agree on]
+
+#### Problem Priority Consensus
+[Whether all groups see this as important]
+
+#### Solution Element Agreement
+[Which aspects of the solution have broad support]
+
+### Divergent Views
+#### Conflicting Priorities
+[Where different stakeholders have different priorities]
+
+#### Implementation Disagreements
+[Where stakeholders disagree about how to implement]
+
+#### Resource Allocation Conflicts
+[Where stakeholders want resources used differently]
+
+### Stakeholder-Specific Needs
+#### Unique Requirements by Group
+[What each stakeholder group specifically needs]
+
+#### Conflicting Requirements
+[Where stakeholder needs conflict with each other]
+
+## Implementation Insights from Stakeholders
+
+### Critical Success Factors
+[What stakeholders consistently identify as crucial for success]
+
+### Common Barriers
+[What obstacles stakeholders consistently identify]
+
+### Resource Requirements
+[What resources stakeholders say are essential]
+
+### Communication Needs
+[What information stakeholders need throughout implementation]
+
+### Timeline Expectations
+[What stakeholders consider realistic timing]
+
+## Stakeholder Engagement Recommendations
+
+### High-Priority Stakeholders for Ongoing Engagement
+[Which stakeholders should be most involved in implementation]
+
+### Resistance Management Strategy
+[How to address stakeholders who showed resistance]
+
+### Communication Strategy
+[How to keep stakeholders informed and engaged]
+
+### Feedback Mechanisms
+[How to continue gathering stakeholder input during implementation]
+
+## Stakeholder Evidence Synthesis
+
+### Strongest Stakeholder Support
+[What aspects of your problem/solution have strongest stakeholder backing]
+
+### Greatest Stakeholder Concerns
+[What stakeholders are most worried about]
+
+### Stakeholder-Driven Modifications
+[How stakeholder feedback should modify your approach]
+
+### Implementation Priorities Based on Stakeholder Input
+[What stakeholders say should be prioritized in implementation]
+
+---
+INSTRUCTIONS:
+1. Include both quantitative survey data and qualitative insights from interviews
+2. Look for patterns across different stakeholder groups
+3. Pay attention to both supportive and resistant feedback  
+4. Document specific concerns and suggestions for addressing them
+5. Use stakeholder input to refine your implementation approach

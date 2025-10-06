@@ -1,0 +1,158 @@
+# Scientific Evidence: Research Findings
+# Document and summarize the research studies you found
+
+## Evidence Summary Overview
+**Total Studies Reviewed:** [Number]
+**Date Range of Studies:** [Earliest to most recent]
+**Geographic Scope:** [Countries/regions represented]
+**Quality Level:** [Overall assessment: High/Medium/Low]
+
+## Study 1: [Title or Brief Description]
+### Citation
+[Full academic citation in APA format]
+
+### Study Overview
+- **Research Design:** [Type of study - RCT, cohort, cross-sectional, etc.]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
+
+### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
+
+#### Related to Your Solution
+[What did this study find about your type of solution?]
+
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
+
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
+
+---
+
+## Study 2: [Title or Brief Description]
+### Citation
+[Full academic citation in APA format]
+
+### Study Overview
+- **Research Design:** [Type of study]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
+
+### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
+
+#### Related to Your Solution
+[What did this study find about your type of solution?]
+
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
+
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
+
+---
+
+## Study 3: [Title or Brief Description]
+### Citation
+[Full academic citation in APA format]
+
+### Study Overview
+- **Research Design:** [Type of study]
+- **Sample Size:** [Number of participants/organizations]
+- **Population:** [Who was studied?]
+- **Setting:** [Where was the study conducted?]
+- **Duration:** [How long was the study period?]
+
+### Key Findings
+#### Related to Your Problem
+[What did this study find about your type of problem?]
+
+#### Related to Your Solution
+[What did this study find about your type of solution?]
+
+#### Important Statistics/Results
+[Specific numbers, effect sizes, confidence intervals]
+
+### Relevance Assessment
+- **Problem Relevance:** [High/Medium/Low - why?]
+- **Solution Relevance:** [High/Medium/Low - why?]
+- **Context Similarity:** [How similar to your situation?]
+
+---
+
+## Additional Studies Summary
+[For studies 4+, you can use shorter summaries]
+
+### Study 4: [Brief title]
+- **Citation:** [Short citation]
+- **Key Finding:** [Most important result]
+- **Relevance:** [Why this matters to your problem/solution]
+
+### Study 5: [Brief title]
+- **Citation:** [Short citation]
+- **Key Finding:** [Most important result]
+- **Relevance:** [Why this matters to your problem/solution]
+
+## Cross-Study Analysis
+
+### Consistent Findings
+[What do multiple studies agree on?]
+
+#### About the Problem
+[Common findings about your type of problem]
+
+#### About Solutions
+[Common findings about effective solutions]
+
+### Conflicting Evidence
+[Where do studies disagree?]
+
+#### Nature of Conflicts
+[What are the disagreements about?]
+
+#### Possible Explanations
+[Why might studies disagree?]
+
+### Evidence Gaps
+[What questions remain unanswered by current research?]
+
+## Synthesis for Decision Making
+
+### Strength of Evidence
+**For Problem Existence:** [Strong/Moderate/Weak evidence]
+**For Solution Effectiveness:** [Strong/Moderate/Weak evidence]
+
+### Key Insights for Your Situation
+[What does the research collectively tell you?]
+
+#### Problem-Related Insights
+[What research says about your problem]
+
+#### Solution-Related Insights
+[What research says about your proposed solution]
+
+#### Implementation Considerations
+[What research suggests about how to implement]
+
+### Research-Based Recommendations
+[What does the scientific evidence suggest you should do?]
+
+---
+INSTRUCTIONS:
+1. Include at least 3-5 high-quality studies
+2. Focus on findings most relevant to your specific problem and solution
+3. Be objective - include both supportive and challenging evidence
+4. Use proper academic citations
+5. Connect findings back to your specific management problem
+6. Don't just summarize - analyze and synthesize across studies

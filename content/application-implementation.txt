@@ -1,0 +1,269 @@
+# Application: Implementation Plan
+# Translating evidence into actionable implementation strategy
+
+## Solution Design Summary
+
+### Final Solution Description
+**Solution Name:** [Brief name for your evidence-based solution]
+
+**Core Components:**
+1. [First major component of solution]
+2. [Second major component of solution]  
+3. [Third major component of solution]
+4. [Additional components as needed]
+
+**Evidence Base:** [Brief summary of how different evidence types shaped this solution]
+
+### Theory of Change
+**Problem:** [Current undesirable situation]
+**Inputs:** [Resources and activities you'll invest]
+**Activities:** [What you'll actually do]
+**Outputs:** [Direct products of your activities]
+**Outcomes:** [Changes you expect to result]
+**Impact:** [Ultimate goal you're trying to achieve]
+
+**Assumptions:** [Key assumptions underlying your theory of change]
+**External Factors:** [Outside forces that could affect success]
+
+## Implementation Planning
+
+### Phase 1: Preparation [Timeline: Week/Month X to Y]
+
+#### Preparation Activities
+**Activity 1:** [First preparation step]
+- **Purpose:** [Why this preparation step is necessary]
+- **Deliverables:** [What will be produced/accomplished]
+- **Resources Needed:** [People, time, money, materials required]
+- **Success Criteria:** [How you'll know this step is complete]
+
+**Activity 2:** [Second preparation step]
+- **Purpose:** [Why this preparation step is necessary]
+- **Deliverables:** [What will be produced/accomplished]
+- **Resources Needed:** [People, time, money, materials required]
+- **Success Criteria:** [How you'll know this step is complete]
+
+**Activity 3:** [Third preparation step]
+[Follow same structure]
+
+#### Preparation Phase Milestones
+- [ ] [First major preparation milestone]
+- [ ] [Second major preparation milestone]
+- [ ] [Third major preparation milestone]
+
+#### Stakeholder Engagement During Preparation
+**Management/Leadership:**
+- **Communication:** [What leaders need to know and when]
+- **Decision Points:** [What leaders need to approve/decide]
+- **Support Required:** [What support you need from leadership]
+
+**Employees/Staff:**
+- **Communication:** [What staff need to know and when]
+- **Involvement:** [How staff will participate in preparation]
+- **Training/Support:** [What preparation staff need]
+
+**Customers/Clients:**
+- **Communication:** [What customers need to know and when]
+- **Feedback Opportunities:** [How customers can provide input during preparation]
+
+**Partners/Suppliers:**
+- **Communication:** [What partners need to know and when]
+- **Coordination:** [How to coordinate with partner activities]
+
+### Phase 2: Initial Implementation [Timeline: Week/Month X to Y]
+
+#### Initial Implementation Activities
+**Activity 1:** [First implementation step]
+- **Purpose:** [Why this step comes first]
+- **Deliverables:** [What will be produced/accomplished]
+- **Resources Needed:** [People, time, money, materials required]
+- **Success Criteria:** [How you'll know this step is working]
+- **Risk Mitigation:** [How you'll address potential problems]
+
+**Activity 2:** [Second implementation step]
+[Follow same structure as Activity 1]
+
+**Activity 3:** [Third implementation step]
+[Follow same structure as Activity 1]
+
+#### Initial Implementation Milestones
+- [ ] [First major implementation milestone]
+- [ ] [Second major implementation milestone]
+- [ ] [Third major implementation milestone]
+
+#### Early Success Indicators
+**Process Indicators:** [Signs that implementation is proceeding as planned]
+**Outcome Indicators:** [Early signs that solution is working]
+**Stakeholder Response Indicators:** [Signs that stakeholders are responding positively]
+
+### Phase 3: Full Implementation [Timeline: Week/Month X to Y]
+
+#### Full Implementation Activities
+[Follow same structure as Phase 2, focusing on scaling up and completing implementation]
+
+#### Full Implementation Milestones
+- [ ] [Major full implementation milestones]
+
+#### Success Monitoring
+**Key Performance Indicators:**
+- **KPI 1:** [First measure of success] - Target: [Specific target]
+- **KPI 2:** [Second measure of success] - Target: [Specific target]
+- **KPI 3:** [Third measure of success] - Target: [Specific target]
+
+### Phase 4: Evaluation & Adjustment [Timeline: Week/Month X to Y]
+
+#### Evaluation Activities
+**Process Evaluation:** [How well implementation went]
+**Outcome Evaluation:** [Whether solution achieved intended results]
+**Impact Evaluation:** [Whether broader organizational goals were met]
+**Stakeholder Satisfaction Assessment:** [How stakeholders view the results]
+
+#### Adjustment Planning
+**Successful Elements to Maintain:** [What's working well that should continue]
+**Elements Needing Modification:** [What needs to be changed or improved]
+**Elements to Discontinue:** [What isn't working and should be stopped]
+
+## Resource Requirements
+
+### Human Resources
+**Project Team Members:**
+- **Project Manager:** [Role description and time commitment]
+- **Team Member 1:** [Role and skills needed, time commitment]
+- **Team Member 2:** [Role and skills needed, time commitment]
+- **Subject Matter Experts:** [Expertise needed and when]
+
+**Stakeholder Time Requirements:**
+- **Leadership Time:** [What time commitment needed from leadership]
+- **Staff Time:** [What time commitment needed from staff]
+- **Customer Time:** [What time commitment needed from customers, if any]
+
+### Financial Resources
+**Direct Costs:**
+- **Personnel:** [Cost of staff time dedicated to project]
+- **Technology:** [Cost of any technology purchases or subscriptions]
+- **Materials:** [Cost of materials and supplies]
+- **Training:** [Cost of training activities]
+- **External Services:** [Cost of consultants or contractors]
+
+**Indirect Costs:**
+- **Opportunity Cost:** [Value of other activities that won't be done due to this project]
+- **Infrastructure:** [Cost of space, utilities, etc.]
+
+**Total Estimated Cost:** [Sum of all costs]
+
+### Technology and Infrastructure Requirements
+**Technology Needs:**
+- [List any technology requirements]
+
+**Physical Infrastructure Needs:**
+- [List any space or equipment requirements]
+
+**Information Systems Requirements:**
+- [List any data or systems integration needs]
+
+## Risk Management
+
+### High-Probability Risks
+
+#### Risk 1: [Most likely risk that could derail implementation]
+- **Likelihood:** [High/Medium/Low]
+- **Impact if Occurs:** [High/Medium/Low]
+- **Evidence Basis:** [What evidence suggests this risk]
+- **Early Warning Signs:** [How you'll detect this risk materializing]
+- **Mitigation Strategy:** [How you'll prevent or minimize this risk]
+- **Contingency Plan:** [What you'll do if this risk occurs despite mitigation]
+
+#### Risk 2: [Second most likely risk]
+[Follow same structure as Risk 1]
+
+#### Risk 3: [Third most likely risk]
+[Follow same structure as Risk 1]
+
+### High-Impact Risks
+
+#### Risk: [Risk that would cause major problems if it occurred, even if unlikely]
+- **Likelihood:** [High/Medium/Low]
+- **Impact if Occurs:** [High/Medium/Low]
+- **Evidence Basis:** [What evidence suggests this risk]
+- **Monitoring Strategy:** [How you'll watch for this risk]
+- **Contingency Plan:** [What you'll do if this risk occurs]
+
+### Risk Mitigation Integration
+**Built-in Risk Mitigation:** [How your implementation plan already addresses major risks]
+**Adaptive Capacity:** [How you've built in ability to adjust if things don't go as planned]
+
+## Communication Plan
+
+### Communication Objectives
+- **Awareness:** [Who needs to know what about the implementation]
+- **Buy-in:** [Who needs to be convinced to support the implementation]
+- **Coordination:** [Who needs to coordinate their activities with implementation]
+- **Feedback:** [Who needs to provide ongoing feedback on implementation progress]
+
+### Communication by Stakeholder Group
+
+#### Leadership Communication
+- **Frequency:** [How often you'll communicate with leadership]
+- **Format:** [How you'll communicate - meetings, reports, etc.]
+- **Content:** [What information leadership needs]
+- **Feedback Mechanism:** [How leadership can provide input]
+
+#### Staff Communication
+- **Frequency:** [How often you'll communicate with staff]
+- **Format:** [How you'll communicate - meetings, emails, etc.]
+- **Content:** [What information staff needs]
+- **Two-way Communication:** [How staff can ask questions and provide feedback]
+
+#### Customer Communication
+- **Frequency:** [How often you'll communicate with customers]
+- **Format:** [How you'll communicate]
+- **Content:** [What information customers need]
+- **Feedback Collection:** [How you'll gather customer input]
+
+#### Partner Communication
+- **Frequency:** [How often you'll communicate with partners]
+- **Format:** [How you'll communicate]
+- **Content:** [What information partners need]
+- **Coordination Mechanism:** [How you'll coordinate activities with partners]
+
+## Success Criteria and Measurement
+
+### Short-term Success Criteria (0-3 months)
+- **Criterion 1:** [First short-term measure of success]
+- **Criterion 2:** [Second short-term measure of success]
+- **Criterion 3:** [Third short-term measure of success]
+
+### Medium-term Success Criteria (3-12 months)
+- **Criterion 1:** [First medium-term measure of success]
+- **Criterion 2:** [Second medium-term measure of success]
+- **Criterion 3:** [Third medium-term measure of success]
+
+### Long-term Success Criteria (12+ months)
+- **Criterion 1:** [First long-term measure of success]
+- **Criterion 2:** [Second long-term measure of success]
+- **Criterion 3:** [Third long-term measure of success]
+
+### Measurement Plan
+**Data Collection Methods:** [How you'll gather data on success criteria]
+**Measurement Frequency:** [How often you'll measure progress]
+**Reporting Schedule:** [When and how you'll report on progress]
+**Decision Points:** [When you'll use measurement data to make decisions about continuing, modifying, or stopping implementation]
+
+## Sustainability Planning
+
+### Ensuring Long-term Success
+**Institutionalization Strategy:** [How you'll make the solution a permanent part of how things work]
+**Continuous Improvement Process:** [How you'll keep improving the solution over time]
+**Knowledge Transfer:** [How you'll ensure knowledge about the solution persists even if people leave]
+
+### Resource Sustainability
+**Ongoing Resource Requirements:** [What resources will be needed to maintain the solution long-term]
+**Funding Strategy:** [How ongoing costs will be covered]
+**Efficiency Improvements:** [How you'll reduce costs over time while maintaining effectiveness]
+
+---
+INSTRUCTIONS:
+1. Make your implementation plan specific and actionable
+2. Ground all activities and timelines in your evidence base
+3. Address the concerns and requirements identified in your stakeholder evidence
+4. Build in monitoring and adjustment mechanisms
+5. Consider both short-term implementation success and long-term sustainability

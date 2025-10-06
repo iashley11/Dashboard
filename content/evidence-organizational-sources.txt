@@ -1,0 +1,173 @@
+# Organizational Evidence: Internal Data & Performance Metrics
+# Document and analyze internal organizational data relevant to your problem
+
+## Data Collection Summary
+**Collection Period:** [Start date] to [End date]
+**Data Sources Accessed:** [Number and types of sources]
+**Data Quality Assessment:** [High/Medium/Low overall quality]
+
+## Performance Metrics Analysis
+
+### Problem-Related Metrics
+
+#### Metric 1: [Metric Name]
+- **Current Value:** [Number/percentage]
+- **Historical Trend (12 months):** [Improving/Declining/Stable]
+- **Benchmark Comparison:** [vs. industry standard/internal target]
+- **Problem Connection:** [How this metric demonstrates the problem exists]
+- **Data Source:** [Where this data comes from]
+- **Data Quality:** [Reliability assessment]
+
+#### Metric 2: [Metric Name]  
+- **Current Value:** [Number/percentage]
+- **Historical Trend (12 months):** [Improving/Declining/Stable]
+- **Benchmark Comparison:** [vs. industry standard/internal target]
+- **Problem Connection:** [How this metric demonstrates the problem exists]
+- **Data Source:** [Where this data comes from]
+- **Data Quality:** [Reliability assessment]
+
+#### Metric 3: [Metric Name]
+- **Current Value:** [Number/percentage]
+- **Historical Trend (12 months):** [Improving/Declining/Stable]
+- **Benchmark Comparison:** [vs. industry standard/internal target]
+- **Problem Connection:** [How this metric demonstrates the problem exists]
+- **Data Source:** [Where this data comes from]
+- **Data Quality:** [Reliability assessment]
+
+### Solution-Feasibility Metrics
+
+#### Resource Availability Indicators
+- **Budget Available:** [Amount] for [Time period]
+- **Staff Capacity:** [FTE available] for [Duration]
+- **Technology Resources:** [Systems/tools currently available]
+- **Previous Initiative Success Rate:** [Percentage] over [Time period]
+
+#### Organizational Readiness Indicators
+- **Change Management Capacity:** [Assessment based on past initiatives]
+- **Leadership Support Level:** [Evidence from resource allocation, communication]
+- **Employee Engagement Scores:** [Current levels and trends]
+- **Training/Development Investment:** [Current spend and capacity]
+
+## Internal Reports Analysis
+
+### Report 1: [Report Name/Type]
+- **Report Period:** [Time period covered]
+- **Key Findings Related to Problem:** [What this report reveals about your problem]
+- **Key Findings Related to Solution:** [What this report reveals about solution feasibility]
+- **Data Quality Assessment:** [How reliable is this report]
+- **Limitations:** [What this report doesn't tell you]
+
+### Report 2: [Report Name/Type]
+[Follow same structure as Report 1]
+
+### Report 3: [Report Name/Type]
+[Follow same structure as Report 1]
+
+## Process Analysis
+
+### Current State Process Documentation
+**Process Name:** [The process most affected by your problem]
+- **Process Description:** [How the process currently works]
+- **Process Performance:** [Current efficiency, quality, cost metrics]
+- **Problem Manifestation:** [How the problem shows up in this process]
+- **Improvement Potential:** [What organizational data suggests about improvement opportunities]
+
+### Historical Process Performance
+- **Baseline Performance:** [What performance looked like before problem emerged]
+- **Performance Decline Pattern:** [How and when performance deteriorated]
+- **Contributing Factors:** [What internal data suggests about causes]
+- **Previous Improvement Attempts:** [What's been tried and what were the results]
+
+## Financial Analysis
+
+### Cost of the Problem
+**Direct Costs:**
+- **Cost Category 1:** $[Amount] per [Time period] - [Explanation]
+- **Cost Category 2:** $[Amount] per [Time period] - [Explanation]
+- **Cost Category 3:** $[Amount] per [Time period] - [Explanation]
+
+**Indirect Costs:**
+- **Opportunity Cost:** $[Amount] - [Lost revenue/productivity]
+- **Hidden Costs:** $[Amount] - [Additional resources required]
+- **Risk Costs:** $[Amount] - [Potential future costs if problem continues]
+
+### Investment Capacity Analysis
+- **Available Budget:** $[Amount] for problem-solving initiatives
+- **Budget Allocation History:** [How organization typically invests in improvements]
+- **ROI Requirements:** [What return on investment is typically required]
+- **Budget Approval Process:** [How funding decisions are made]
+
+## Employee/HR Data Analysis
+
+### Workforce Metrics
+- **Employee Turnover Rate:** [Percentage] in [Time period]
+- **Employee Satisfaction Scores:** [Current level and trends]
+- **Absenteeism Rate:** [Percentage and trends]
+- **Training Hours per Employee:** [Hours] in [Time period]
+- **Internal Promotion Rate:** [Percentage]
+
+### Problem-Specific HR Impacts
+- **Departments Most Affected:** [Which areas show impact in HR metrics]
+- **Skill Gap Analysis:** [What capabilities are missing for solution implementation]
+- **Change Readiness Assessment:** [Employee capacity for change based on past initiatives]
+
+## Customer/Client Data Analysis (if relevant)
+
+### Customer Impact Metrics
+- **Customer Satisfaction Scores:** [Levels and trends]
+- **Customer Retention Rate:** [Percentage]
+- **Complaint Volume:** [Number and types]
+- **Service Quality Metrics:** [Response times, resolution rates, etc.]
+
+### Revenue Impact Analysis
+- **Revenue Trends:** [How problem affects revenue]
+- **Customer Lifetime Value:** [Impact on long-term customer relationships]
+- **Market Share Data:** [Competitive position trends]
+
+## Operational Efficiency Data
+
+### Productivity Metrics
+- **Output per Employee:** [Quantity] over [Time period]
+- **Process Cycle Times:** [Duration for key processes]
+- **Quality Metrics:** [Error rates, rework requirements, defect rates]
+- **Resource Utilization:** [How efficiently resources are used]
+
+### Technology/Systems Performance
+- **System Uptime:** [Percentage and trends]
+- **User Adoption Rates:** [How well employees use available tools]
+- **Data Quality Metrics:** [Accuracy, completeness, timeliness of data]
+- **Integration Effectiveness:** [How well systems work together]
+
+## Competitive/Benchmark Analysis
+
+### Internal Benchmarking
+- **Best-Performing Departments:** [Which areas perform best and why]
+- **Historical Best Performance:** [What peak performance looked like]
+- **Peer Organization Comparison:** [How performance compares to similar organizations]
+
+### Industry Benchmarking
+- **Industry Average Performance:** [How organization compares to industry norms]
+- **Best-in-Class Performance:** [Gap analysis to top performers]
+- **Benchmark Data Sources:** [Where comparative data comes from]
+
+## Synthesis of Organizational Evidence
+
+### Strongest Evidence for Problem Existence
+[What internal data most clearly demonstrates the problem]
+
+### Strongest Evidence for Solution Feasibility  
+[What internal data most strongly supports solution implementation]
+
+### Evidence-Based Organizational Readiness Assessment
+[What the data collectively says about organizational capacity for change]
+
+### Critical Success Factors Based on Internal Evidence
+[What organizational factors will be crucial for solution success]
+
+---
+INSTRUCTIONS:
+1. Focus on data most directly related to your problem and solution
+2. Include both quantitative metrics and qualitative insights from reports
+3. Be honest about data limitations and quality issues  
+4. Look for patterns and trends, not just point-in-time snapshots
+5. Connect internal evidence to external evidence from other sources

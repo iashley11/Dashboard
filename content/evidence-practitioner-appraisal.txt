@@ -1,0 +1,200 @@
+# Practitioner Evidence: Credibility & Relevance Assessment
+# Evaluate the trustworthiness and applicability of practitioner insights
+
+## Overall Credibility Assessment
+**Overall Rating:** [High/Medium/Low]
+**Confidence in Recommendations:** [High/Medium/Low]
+
+## Individual Practitioner Credibility
+
+### Expert 1: [Name/Role]
+#### Professional Credibility
+- **Years of Relevant Experience:** [Number and assessment]
+- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
+- **Track Record:** [Documented successes/Mixed results/Limited evidence]
+- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+
+#### Expertise Assessment
+- **Direct Problem Experience:** [Extensive/Moderate/Limited]
+- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
+- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
+- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+
+#### Bias Assessment
+- **Financial Interests:** [Potential conflicts of interest?]
+- **Organizational Bias:** [Tied to specific approach/company?]
+- **Personal Investment:** [Emotionally invested in certain solutions?]
+- **Transparency:** [Open about limitations/Overly confident/Defensive]
+
+---
+
+### Expert 2: [Name/Role]
+[Follow same structure as Expert 1]
+
+---
+
+### Expert 3: [Name/Role]
+[Follow same structure as Expert 1]
+
+## Case Study Credibility
+
+### Case Study 1: [Organization Name]
+#### Source Credibility
+- **Information Source:** [Company publication/Academic case study/News report/Other]
+- **Source Reliability:** [Highly reliable/Moderately reliable/Limited reliability]
+- **Information Completeness:** [Comprehensive/Partial/Limited detail]
+- **Objectivity:** [Objective reporting/Some bias/Heavily biased]
+
+#### Context Relevance
+- **Industry Similarity:** [Same industry/Related industry/Different industry]
+- **Organizational Size:** [Similar size/Somewhat similar/Very different]
+- **Geographic Context:** [Same region/Similar region/Different region]
+- **Time Relevance:** [Recent/Somewhat recent/Dated]
+
+#### Outcome Verification
+- **Results Documentation:** [Well documented/Partially documented/Claims only]
+- **Independent Verification:** [Third-party confirmation/Self-reported only]
+- **Long-term Follow-up:** [Long-term results known/Short-term only]
+
+---
+
+### Case Study 2: [Organization Name]
+[Follow same structure as Case Study 1]
+
+## Evidence Quality Assessment
+
+### Consistency Across Sources
+#### Consistent Messages
+[What recommendations appear across multiple practitioners?]
+
+#### Inconsistent or Conflicting Advice
+[Where do practitioners disagree?]
+
+#### Pattern Recognition
+[What patterns emerge across different contexts?]
+
+### Depth and Specificity
+#### Detailed vs. General Advice
+[How specific and actionable are the recommendations?]
+
+#### Evidence-Based vs. Opinion-Based
+[Are recommendations backed by specific examples and data?]
+
+#### Implementation Detail
+[How much practical implementation guidance is provided?]
+
+## Context Relevance Assessment
+
+### Practitioner Context Match
+#### Industry Alignment
+- **Perfect Match:** [Practitioners from your exact industry]
+- **Close Match:** [Practitioners from related industries]
+- **Different but Relevant:** [Practitioners from different but applicable contexts]
+
+#### Organizational Context
+- **Size Similarity:** [Similar sized organizations in their experience]
+- **Culture Similarity:** [Similar organizational cultures]
+- **Resource Similarity:** [Similar resource constraints]
+
+#### Problem Similarity
+- **Identical Problems:** [Exact same problem encountered]
+- **Similar Problems:** [Related but different problems]
+- **Analogous Problems:** [Different problems with similar solutions]
+
+### Geographic and Cultural Factors
+#### Cultural Relevance
+[How do cultural differences affect applicability?]
+
+#### Regulatory Environment
+[How do different regulatory contexts affect recommendations?]
+
+#### Market Conditions
+[How do different market conditions affect relevance?]
+
+## Bias and Limitation Analysis
+
+### Potential Biases
+
+#### Selection Bias
+[Are you only hearing from certain types of practitioners?]
+
+#### Survival Bias
+[Are you only hearing success stories?]
+
+#### Confirmation Bias
+[Are practitioners telling you what you want to hear?]
+
+#### Recency Bias
+[Are recent experiences overweighted?]
+
+### Information Limitations
+
+#### Sample Size
+[Are you hearing from enough practitioners?]
+
+#### Depth vs. Breadth
+[Do you have deep insights from few sources or shallow insights from many?]
+
+#### Missing Perspectives
+[What practitioner perspectives are missing?]
+
+#### Context Gaps
+[What contexts are not represented in your evidence?]
+
+## Reliability Assessment
+
+### Internal Consistency
+[Are individual practitioners internally consistent in their recommendations?]
+
+### Cross-Validation
+[Do recommendations align with other evidence sources?]
+
+### Logical Coherence
+[Do the recommendations make logical sense given the problem?]
+
+### Practical Feasibility
+[Are the recommendations actually implementable in your context?]
+
+## Confidence Levels
+
+### High Confidence Recommendations
+[What advice do you have high confidence in based on practitioner evidence?]
+
+### Medium Confidence Recommendations
+[What advice seems reasonable but has some uncertainty?]
+
+### Low Confidence or Conflicting Areas
+[What areas have conflicting advice or low confidence?]
+
+## Evidence Gaps and Limitations
+
+### Missing Practitioner Perspectives
+[What types of practitioners would strengthen your evidence?]
+
+### Context Limitations
+[How do context differences limit generalizability?]
+
+### Depth Limitations
+[Where do you need more detailed practitioner insights?]
+
+### Temporal Limitations
+[How do timing factors affect the relevance of practitioner advice?]
+
+## Integration with Other Evidence Types
+
+### Alignment with Scientific Evidence
+[How well does practitioner evidence align with research?]
+
+### Practical vs. Theoretical
+[Where does practitioner wisdom add value beyond research?]
+
+### Implementation Reality Check
+[How do practitioners help you understand real-world constraints?]
+
+---
+INSTRUCTIONS:
+1. Be honest about limitations - don't oversell weak practitioner evidence
+2. Consider both the credibility of sources and relevance to your context
+3. Look for patterns and consistency across multiple practitioners
+4. Acknowledge biases and gaps in your practitioner evidence
+5. Use this assessment to weight practitioner recommendations appropriately
